@@ -7,7 +7,7 @@ it supports C++11, C++14, C++17, and C++20.
 
 TCP client example:
 ```cpp
-#include "../netlibpp.h"
+#include "netlibpp.h"
 #include <iostream>
 int main() {
     netlibpp::Client Client([](const std::string& error) {
@@ -33,7 +33,7 @@ int main() {
 
 UDP client example:
 ```cpp
-#include "../netlibpp.h"
+#include "netlibpp.h"
 #include <iostream>
 
 int main() {
