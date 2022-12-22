@@ -2,7 +2,7 @@
 [![CMake Linux Build](https://github.com/Anonymous-275/netlibpp/actions/workflows/cmake-linux.yml/badge.svg)](https://github.com/Anonymous-275/netlibpp/actions/workflows/cmake-linux.yml)
 [![CMake Windows Build](https://github.com/Anonymous-275/netlibpp/actions/workflows/cmake-windows.yml/badge.svg)](https://github.com/Anonymous-275/netlibpp/actions/workflows/cmake-windows.yml)
 
-netlibpp is a modern cross-platform C++ network library for developing network services using TCP/UDP protocols,
+netlibpp is a modern header only cross-platform C++ network library for developing network services using TCP/UDP protocols,
 it supports C++11, C++14, C++17, and C++20.
 
 TCP client example:
